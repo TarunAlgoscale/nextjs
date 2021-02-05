@@ -99,7 +99,10 @@ export default function Home() {
         </div>
     </form>
 </div>
-    <p>-----------------------------------------end of form------------------------------------------------------------------------------------------------</p>
+    <div className={styles.container}>
+        <p>end of form</p>    
+    </div>
+
     
     <div className={styles.container}>
       <Head>
